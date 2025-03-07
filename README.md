@@ -1,6 +1,5 @@
 ## 👋 Hello, I'm Madhuri Thotakura! 
 
----
 
 ### 🚀 About Me
 I am a **Final Year B.Tech Student** specializing in **Artificial Intelligence and Data Science** at KITE Group of Institutions. Passionate about **Full-Stack Development, AI/ML, and Project Building**, I enjoy working on real-world projects that make an impact.
