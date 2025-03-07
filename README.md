@@ -3,17 +3,17 @@
 ### 🚀 About Me
 I am a **Final Year B.Tech Student** specializing in **Artificial Intelligence and Data Science** at KITE Group of Institutions. Passionate about **Full-Stack Development, AI/ML, and Project Building**, I enjoy working on real-world projects that make an impact. 
 
-🔹 **Technical Skills:**  
+🛠️  **Technical Skills:**  
 - **Languages:** Python, SQL  
 - **Full-Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, FastAPI  
 - **AI/ML:** Data Analysis, Machine Learning, NLP, OpenAI APIs  
 - **Cloud & Tools:** Git/GitHub, Docker, Firebase, REST APIs,Langchain,Langfuse,Streamlit  
 
-🔹 **Experience & Projects:**  
+💼 **Experience & Projects:**  
 - **Internships:** Junior Developer Intern (K-Hub & RCTS), Data Science Intern (Cognifyz), Summer of AI Intern  
 - **Projects:** Live Weather Forecast App,Smart Admin User management system , Password Generator (Flask), Chatbot using llama 
 
-🔹 **Other Skills:**  
+ 🎯 **Other Skills:**  
 - Communication, Team Management, Problem-Solving  
 - Mentoring and guiding juniors in coding & hackathons  
 
