@@ -1,4 +1,25 @@
+## 👋 Hello, I'm Madhuri Thotakura! 
 
+### 🚀 About Me
+I am a **Final Year B.Tech Student** specializing in **Artificial Intelligence and Data Science** at KITE Group of Institutions. Passionate about **Full-Stack Development, AI/ML, and Project Building**, I enjoy working on real-world projects that make an impact. 
+
+🔹 **Technical Skills:**  
+- **Languages:** Python, SQL  
+- **Full-Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, FastAPI  
+- **AI/ML:** Data Analysis, Machine Learning, NLP, OpenAI APIs  
+- **Cloud & Tools:** Git/GitHub, Docker, Firebase, REST APIs,Langchain,Langfuse,Streamlit  
+
+🔹 **Experience & Projects:**  
+- **Internships:** Junior Developer Intern (K-Hub & RCTS), Data Science Intern (Cognifyz), Summer of AI Intern  
+- **Projects:** Live Weather Forecast App,Smart Admin User management system , Password Generator (Flask), Chatbot using llama 
+
+🔹 **Other Skills:**  
+- Communication, Team Management, Problem-Solving  
+- Mentoring and guiding juniors in coding & hackathons  
+
+### 🌱 Currently Learning 
+- Advanced AI & LLMs
+   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuri_.43) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhuri-thotakura-a6199123b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@Madhuri ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhurimadhuri0629@gmail.com) 
 
@@ -16,3 +37,5 @@
 [![](https://visitcount.itsvg.in/api?id=Madhurithotakua&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+⚡ **"Curious, Passionate, and Always Learning!"**
