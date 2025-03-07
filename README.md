@@ -9,8 +9,8 @@ I am a **Final Year B.Tech Student** specializing in **Artificial Intelligence a
 🛠️  **Technical Skills:**  
 - **Languages:** Python, SQL  
 - **Full-Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, FastAPI  
-- **AI/ML:** Data Analysis, Machine Learning, NLP, OpenAI APIs  
-- **Cloud & Tools:** Git/GitHub, Docker, Firebase, REST APIs, Langchain, Langfuse, Streamlit  
+- **AI/ML:** Data Analysis, Machine Learning, OpenAI APIs  
+- **Cloud & Tools:** Git/GitHub,  REST APIs, Langchain, Langfuse, Streamlit  
 
 ---
 
